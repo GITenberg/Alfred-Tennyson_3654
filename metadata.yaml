@@ -1,0 +1,27 @@
+_repo: Alfred-Tennyson_3654
+creator:
+  author:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: Cover; Front matter; Title page; Copyright page; Body matter; Introduction;
+  Chapter I; Chapter II; Chapter III; Chapter IV; Chapter V; Chapter VI; Chapter VII;
+  Chapter VIII; Chapter IX; Chapter X; Chapter XI; Footnotes.
+gutenberg_issued: '2003-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3654'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- 19th century -- Biography'
+- !lcc 'PR'
+- !lcsh 'Tennyson, Alfred Tennyson, Baron, 1809-1892'
+title: Alfred Tennyson
+url: http://www.gutenberg.org/ebooks/3654
